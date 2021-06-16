@@ -9,5 +9,5 @@ function fib(max){
         legacy=count;
         count+=previous;
         previous=legacy;
-    };
-};
+    }
+}
